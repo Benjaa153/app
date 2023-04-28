@@ -2,7 +2,7 @@ import React from 'react'
 
 const Principal = () => {
   return (
-    <div>Principal</div>
+    <div>Este es el contenido Principal</div>
   )
 }
 
