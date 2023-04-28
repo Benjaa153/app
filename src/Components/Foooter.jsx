@@ -9,7 +9,7 @@ const Foooter = () => {
         <div className="row  text-md-start mt-5">
           
           <div className="col-md-4 ">
-            <h4 className="pb-3">RPX <span className="Analyst">Analyst </span></h4>
+            <h4 className="pb-3">RPX 3 <span className="Analyst">Analyst </span></h4>
             
             <p className="copy-right"> Copyright © 2008-2019 RPX Corporation. All Rights Reserved.</p>
           </div>
