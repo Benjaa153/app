@@ -1,12 +1,10 @@
-import ImgLogo512 from '../Img/logo512.png'
-function Header(){
+function Header(props){
     return(
 
         <div>
-            <h1> este es el Header</h1>
-
-            <img
-            ></img>
+                <h1>
+                    holaaa {props.nombre}
+                </h1>
         </div>
     );
 

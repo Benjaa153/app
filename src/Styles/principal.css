@@ -1,11 +1,12 @@
-.img1-negro{
-    background-color: black;
-}
-
-.img1-rojo{
+.imgLogo-rojo{
     background-color: red;
 }
 
-.img1-verde{
+.imgLogo-negro{
+    background-color: black;
+}
+
+.imgLogo-verde{
     background-color: green;
+    width: 100px;
 }
